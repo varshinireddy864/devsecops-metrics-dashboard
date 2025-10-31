@@ -35,3 +35,11 @@ Here’s the overall workflow of the system:
 ### 🧩 Architecture Diagram
 ![Architecture Diagram](architecture-diagram.png)
 
+## 📎 Project Files
+
+You can view or download the complete project documentation and presentation below:
+
+- 📘 [Project Report](./DEVOPS_REPORT(1).pdf)
+- 📊 [Project Presentation (PPT)](./devops.pptx)
+
+
