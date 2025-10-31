@@ -33,8 +33,5 @@ Here’s the overall workflow of the system:
 ---
 
 ### 🧩 Architecture Diagram
-(Add your architecture diagram image here)
-
-```markdown
 ![Architecture Diagram](architecture-diagram.png)
 
